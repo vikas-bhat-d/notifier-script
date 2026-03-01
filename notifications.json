@@ -1,0 +1,16 @@
+{
+  "defaultIcon": "./default.png",
+  "notifications": [
+    {
+      "title": "Stand Up",
+      "message": "Take a short walk.",
+      "intervalMinutes": 30
+    },
+    {
+      "title": "Hydration",
+      "message": "Drink water 💧",
+      "intervalMinutes": 15,
+      "icon": "./icons/water.png"
+    }
+  ]
+}

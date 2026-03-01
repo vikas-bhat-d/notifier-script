@@ -1,0 +1,16 @@
+{
+  "name": "reminder",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "notify.js",
+  "scripts": {
+    "start":"node notify.js"
+  },
+  "dependencies": {
+    "node-notifier": "^10.0.1",
+    "powertoast": "^3.0.0"
+  }
+}
